@@ -1,0 +1,7 @@
+name: TestPlugin
+version: '${project.version}'
+main: me.nglam.testplugin.testplugin.TestPlugin
+api-version: 1.18
+authors: [ NgLam ]
+description: Just a test plugin
+website: github.com/NgLamVN
